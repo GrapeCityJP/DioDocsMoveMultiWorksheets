@@ -1,2 +1,2 @@
 # DioDocsMoveMultiWorksheets
-複数のワークシートをコピー、移動する
+複数のワークシートを移動する
